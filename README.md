@@ -11,11 +11,29 @@
 </p>
 
 <h3>About Me</h3>
-- 🔭 **Currently working on:** [AK Shop](#)
-- 🌱 **Learning:** Flutter, React Native, C#
-- 👨‍💻 **Projects:** [View Portfolio](https://alok-kushwaha.vercel.app)
-- 💬 **Expertise:** React, Python, Node.js, Dart, C
-- 📫 **Contact:** [kushwahaalok025@gmail.com](mailto:kushwahaalok025@gmail.com)
+<div style="border: 1px solid #e0e0e0; border-radius: 8px; padding: 20px; background-color: #f9f9f9;">
+  <p>
+    Hello! I'm Alok Kushwaha, a dedicated MERN Stack and Flutter developer from India with a passion for crafting seamless web and mobile applications. 
+  </p>
+  <h4>Current Focus:</h4>
+  <ul>
+    <li>🚀 Working on: <strong>AK Shop</strong> — an innovative e-commerce platform.</li>
+    <li>📚 Learning: <strong>Flutter, React Native, C#</strong> to enhance my mobile development skills.</li>
+  </ul>
+  <h4>Expertise:</h4>
+  <ul>
+    <li>🔧 Proficient in: <strong>React, Node.js, Python, Dart, C</strong>.</li>
+    <li>🌐 Experienced in full-stack development, from backend APIs to responsive UI design.</li>
+  </ul>
+  <h4>Portfolio:</h4>
+  <p>
+    💼 View my projects and contributions: <a href="https://alok-kushwaha.vercel.app" target="_blank"><strong>My Portfolio</strong></a>
+  </p>
+  <h4>Contact Me:</h4>
+  <p>
+    📧 For inquiries or collaboration: <a href="mailto:kushwahaalok025@gmail.com"><strong>kushwahaalok025@gmail.com</strong></a>
+  </p>
+</div>
 
 ---
 
