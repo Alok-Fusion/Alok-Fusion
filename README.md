@@ -73,8 +73,12 @@
 ---
 
 <h3 style="font-family: 'Poppins', sans-serif; color: #ff6600;">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alok-fusion&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="margin-right: 20px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alok-fusion&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" style="margin-right: 20px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-fusion&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alok-fusion&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" style="margin-bottom: 20px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-fusion&theme=radical&hide_border=true" alt="GitHub Streak" style="margin-bottom: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alok-fusion&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="margin-bottom: 20px;" />
+</div>
+
+<div align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=alok-fusion&bg_color=141321&color=ff6600&line=ff6600&point=f9f9f9&area=true&hide_border=true" alt="Contribution Graph" style="margin-bottom: 20px;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alok-fusion&theme=radical&no-bg=true&no-frame=true&column=6" alt="Trophies"
