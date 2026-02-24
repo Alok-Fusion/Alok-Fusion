@@ -1,16 +1,26 @@
-<!-- ================= ULTRA DYNAMIC HEADER ================= -->
+<!-- ===================================================== -->
+<!-- 🔥 CYBERPUNK AI WAR-ROOM PROFILE – ALOK KUSHWAHA 🔥 -->
+<!-- ===================================================== -->
+
+<!-- ===== Animated Cyber Grid Illusion Background ===== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:FF6A00&height=300&section=header&text=ALOK%20KUSHWAHA&fontSize=50&fontColor=ffffff&animation=blinking&fontAlignY=40&desc=AI%20%7C%20FINTECH%20%7C%20AGRICULTURE%20%7C%20RETRIEVAL%20SYSTEMS&descAlignY=65&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:FF6A00&height=300&section=header&text=ALOK%20KUSHWAHA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Systems%20Architect%20%7C%20FinTech%20%7C%20Agri-AI%20%7C%20Retrieval%20Infrastructure&descAlignY=65&descAlign=50"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=FF6A00&center=true&vCenter=true&width=1000&lines=Designing+Systems+That+Think.;Engineering+Intelligence+Across+Industries.;Finance+%7C+AI+%7C+Infrastructure.;From+Research+to+Production.;Architecture+Over+Hacks." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF6A00&center=true&vCenter=true&width=1000&lines=SYSTEM+STATUS:+OPERATIONAL;FinTech+Pipelines:+ACTIVE;Crop+Vision+Engines:+RUNNING;Belief+Modeling+AI:+ONLINE;Retrieval+Infrastructure:+STABLE"/>
 </p>
 
 ---
 
-# 🧠 SYSTEM ARCHITECT PROFILE
+<!-- ===== Glowing Divider ===== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:000000&height=4"/>
+</p>
+
+# 🛰️ AI CONTROL PANEL
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,fastapi,mongodb,tensorflow,flutter,docker,git,linux" />
@@ -18,7 +28,7 @@
 
 ---
 
-# 🛰️ LIVE SYSTEM METRICS
+# 📊 LIVE INTELLIGENCE METRICS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alok-Fusion&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
@@ -27,14 +37,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-Fusion&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
-# 🏆 ACHIEVEMENT MATRIX
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alok-Fusion&theme=algolia&no-frame=true&column=7"/>
 </p>
 
 ---
@@ -55,16 +57,21 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:000000&height=4"/>
+</p>
+
 # 🏦 FINTECH SYSTEMS
 
 <details>
-<summary><b>💰 Fraud Detection & Risk Intelligence</b></summary>
+<summary><b>Fraud Detection • Risk Scoring • Payment Infrastructure</b></summary>
 
-- Transaction anomaly detection
-- ML classification pipelines
-- Risk scoring engine
-- Financial modeling experiments
-- Payment lifecycle tracking systems
+- Fraud Detection ML System  
+- Financial Risk Scoring Engine  
+- Payment-Integrated AK Shop  
+- FinTech Analytics Platform  
+
+Tech: Python • scikit-learn • TensorFlow • MongoDB • REST APIs  
 
 </details>
 
@@ -73,12 +80,11 @@
 # 🌾 AGRICULTURE AI
 
 <details>
-<summary><b>🌱 Crop Health & Marketplace Systems</b></summary>
+<summary><b>Crop Intelligence • Vision Models • Marketplace Systems</b></summary>
 
-- Wheat Disease Detection (Research)
-- Computer Vision stress modeling
-- Krushak Farmer Marketplace
-- Payment + Chat architecture
+- Wheat Crop Health Research  
+- Disease Detection via Computer Vision  
+- Krushak Farmer Marketplace  
 
 </details>
 
@@ -87,45 +93,62 @@
 # 🤖 ARTIFICIAL INTELLIGENCE SYSTEMS
 
 <details>
-<summary><b>🧠 Belief, Emotion & Identity Modeling</b></summary>
+<summary><b>Belief Modeling • Emotion AI • LLM Infrastructure</b></summary>
 
-- NemesisAI (Belief-Aware Debate Engine)
-- Mood-Based Location Recommender
-- Fake Persona Detector
-- MindMood AI Companion
-- Local LLaMA Infrastructure
+- NemesisAI (Debate Engine)  
+- Mood-Based Location Recommender  
+- Fake Persona Detector  
+- MindMood  
+- Local LLaMA AI Assistant  
 
 </details>
 
 ---
 
-# 🔎 IDENTITY & RETRIEVAL INFRASTRUCTURE
+# 🔎 RETRIEVAL & IDENTITY INFRASTRUCTURE
 
 <details>
-<summary><b>🔍 Reverse Image & Embedding Systems</b></summary>
+<summary><b>Face Embeddings • Reverse Image • Geolocation</b></summary>
 
-- Missing Person Finder
-- Face Embedding Retrieval Engine
-- Geolocation Integration
-- Internet-Scale Similarity Search
+- Missing Person Finder  
+- Reverse Image Intelligence System  
+- Embedding Similarity Engine  
 
 </details>
 
 ---
 
-# 🏗 FULL-STACK & PRODUCT SYSTEMS
+# 🏗 PLATFORM ENGINEERING
 
 <details>
-<summary><b>🚀 Platforms & Architecture</b></summary>
+<summary><b>MERN • Flutter • Desktop Systems</b></summary>
 
-- AK Shop (MERN E-Commerce)
-- Educational Job Bot (Payment Enabled)
-- Interview Scheduling System (Flutter)
-- Python Chat Application
-- Tkinter Desktop Control System
+- AK Shop  
+- Educational Job Bot  
+- Interview Scheduling System  
+- Python Chat Application  
+- Tkinter Desktop System  
 
 </details>
 
 ---
 
-# 🧬 ENGINEERING PRINCIPLES
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:000000&height=4"/>
+</p>
+
+# 🚀 DYNAMIC PROJECT HIGHLIGHTS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alok-Fusion&repo=NemesisAI&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alok-Fusion&repo=Missing-Person-Finder&theme=radical&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alok-Fusion&repo=Krushak&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alok-Fusion&repo=AK-Shop&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 ENGINEERING PRINCIPLES
