@@ -137,9 +137,8 @@ Tech Stack: OpenCV • TensorFlow • MERN
 ## 🏆 Achievement Matrix
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alok-Fusion&theme=algolia&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Alok-Fusion&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=6&rank=-?&cache_seconds=1800"/>
 </p>
-
 ---
 
 ## 📈 Contribution Activity Graph
