@@ -1,26 +1,22 @@
-<!-- ===================================================== -->
-<!-- 🔥 CYBERPUNK AI WAR-ROOM PROFILE – ALOK KUSHWAHA 🔥 -->
-<!-- ===================================================== -->
-
-<!-- ===== Animated Cyber Grid Illusion Background ===== -->
+<!-- ====================== DARK GRID HEADER ====================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:FF6A00&height=300&section=header&text=ALOK%20KUSHWAHA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Systems%20Architect%20%7C%20FinTech%20%7C%20Agri-AI%20%7C%20Retrieval%20Infrastructure&descAlignY=65&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:FF6A00&height=300&section=header&text=ALOK%20KUSHWAHA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20SYSTEMS%20ENGINEER%20%7C%20ARCHITECT%20%7C%20FINTECH%20%7C%20AGRI-AI&descAlignY=60&descAlign=50"/>
 </p>
 
+<!-- ====================== BLINKING ALERT ====================== -->
+
+<h2 align="center">
+🚨 <span style="color:#FF6A00;">AI WAR-ROOM ACTIVE</span> 🚨
+</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF6A00&center=true&vCenter=true&width=1000&lines=SYSTEM+STATUS:+OPERATIONAL;FinTech+Pipelines:+ACTIVE;Crop+Vision+Engines:+RUNNING;Belief+Modeling+AI:+ONLINE;Retrieval+Infrastructure:+STABLE"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=FF6A00&center=true&vCenter=true&width=900&lines=System+Status:+OPERATIONAL;Intelligence+Infrastructure:+ONLINE;FinTech+Pipelines:+ACTIVE;Retrieval+Engines:+RUNNING;Architecture+Integrity:+STABLE"/>
 </p>
 
 ---
 
-<!-- ===== Glowing Divider ===== -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:000000&height=4"/>
-</p>
-
-# 🛰️ AI CONTROL PANEL
+# 🛰️ CONTROL PANEL
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,fastapi,mongodb,tensorflow,flutter,docker,git,linux" />
@@ -41,7 +37,7 @@
 
 ---
 
-# 📈 CONTRIBUTION INTELLIGENCE MAP
+# 📈 CONTRIBUTION HEATMAP
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alok-Fusion&theme=react-dark&area=true&hide_border=true"/>
@@ -57,41 +53,48 @@
 
 ---
 
+# 🏆 ACHIEVEMENT MATRIX
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:000000&height=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Alok-Fusion&theme=algolia&no-frame=true&column=6"/>
 </p>
 
-# 🏦 FINTECH SYSTEMS
+---
 
+# 🧠 INDUSTRY ARCHITECTURE MAP
+
+---
+
+## 🏦 FINTECH SYSTEMS
 <details>
-<summary><b>Fraud Detection • Risk Scoring • Payment Infrastructure</b></summary>
+<summary><b>Fraud Detection • Risk Scoring • Payment Architecture</b></summary>
 
 - Fraud Detection ML System  
 - Financial Risk Scoring Engine  
-- Payment-Integrated AK Shop  
-- FinTech Analytics Platform  
+- Payment-integrated AK Shop  
+- FinTech Analytics Experiments  
 
-Tech: Python • scikit-learn • TensorFlow • MongoDB • REST APIs  
+Tech: Python • scikit-learn • TensorFlow • REST APIs • MongoDB  
 
 </details>
 
 ---
 
-# 🌾 AGRICULTURE AI
-
+## 🌾 AGRICULTURE AI
 <details>
-<summary><b>Crop Intelligence • Vision Models • Marketplace Systems</b></summary>
+<summary><b>Crop Intelligence • Marketplace Infrastructure</b></summary>
 
-- Wheat Crop Health Research  
-- Disease Detection via Computer Vision  
-- Krushak Farmer Marketplace  
+- Wheat Disease Detection Research  
+- Computer Vision Stress Modeling  
+- Krushak Farmers Marketplace  
+
+Tech: OpenCV • TensorFlow • MERN  
 
 </details>
 
 ---
 
-# 🤖 ARTIFICIAL INTELLIGENCE SYSTEMS
-
+## 🤖 ARTIFICIAL INTELLIGENCE SYSTEMS
 <details>
 <summary><b>Belief Modeling • Emotion AI • LLM Infrastructure</b></summary>
 
@@ -99,27 +102,25 @@ Tech: Python • scikit-learn • TensorFlow • MongoDB • REST APIs
 - Mood-Based Location Recommender  
 - Fake Persona Detector  
 - MindMood  
-- Local LLaMA AI Assistant  
+- Local LLaMA Assistant  
 
 </details>
 
 ---
 
-# 🔎 RETRIEVAL & IDENTITY INFRASTRUCTURE
-
+## 🔎 RETRIEVAL & IDENTITY SYSTEMS
 <details>
-<summary><b>Face Embeddings • Reverse Image • Geolocation</b></summary>
+<summary><b>Embedding Engines • Reverse Search • Geolocation</b></summary>
 
 - Missing Person Finder  
-- Reverse Image Intelligence System  
-- Embedding Similarity Engine  
+- AI Reverse Image Intelligence  
+- Face Embedding Similarity Engine  
 
 </details>
 
 ---
 
-# 🏗 PLATFORM ENGINEERING
-
+## 🏗 PRODUCT & PLATFORM ENGINEERING
 <details>
 <summary><b>MERN • Flutter • Desktop Systems</b></summary>
 
@@ -133,22 +134,4 @@ Tech: Python • scikit-learn • TensorFlow • MongoDB • REST APIs
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:000000&height=4"/>
-</p>
-
-# 🚀 DYNAMIC PROJECT HIGHLIGHTS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alok-Fusion&repo=NemesisAI&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alok-Fusion&repo=Missing-Person-Finder&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alok-Fusion&repo=Krushak&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alok-Fusion&repo=AK-Shop&theme=radical&hide_border=true"/>
-</p>
-
----
-
-# 🧠 ENGINEERING PRINCIPLES
+# 🧬 ENGINEERING PRINCIPLES
