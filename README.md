@@ -1,15 +1,29 @@
-<!-- ===================== CUSTOM DARK BANNER ===================== -->
+<!-- ===================== TOP BANNER ===================== -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF6A00&height=250&section=header&text=ALOK%20KUSHWAHA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Systems%20Engineer%20%7C%20Infrastructure%20Architect&descAlignY=60&descAlign=50"/>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Alok-Fusion&label=Profile%20Views&color=ff6a00&style=for-the-badge"/>
+</p>
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=900&lines=Building+AI+That+Debates+Beliefs;Designing+Finance+%26+Fraud+Detection+Systems;Engineering+Computer+Vision+for+Agriculture;Architecting+Retrieval+%26+Identity+Systems;Intelligence+Is+Engineered." />
+</p>
+
+---
+
+# ⚙ TECH ARSENAL
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,fastapi,mongodb,tensorflow,flutter,docker,git" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:000000&height=2"/>
 </p>
 
 ---
@@ -111,20 +125,24 @@
 
 ---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:000000&height=2"/>
+</p>
+
 # 📊 GITHUB INTELLIGENCE PANEL
 
 ## 🏆 Trophy Board
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alok-fusion&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Alok-Fusion&theme=algolia&no-frame=true&row=1&column=6&margin-w=15"/>
 </p>
 
 ---
 
-## 📈 3D Contribution Graph
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alok-fusion&theme=react-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alok-Fusion&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
@@ -132,16 +150,16 @@
 ## 📊 Core Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alok-fusion&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-fusion&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alok-Fusion&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Alok-Fusion&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alok-fusion/alok-fusion/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Alok-Fusion/Alok-Fusion/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
