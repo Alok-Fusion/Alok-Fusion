@@ -1,187 +1,193 @@
+<!-- ================= HERO SECTION ================= -->
+
 <h1 align="center">⚡ Alok Kushwaha</h1>
-<h3 align="center">AI Systems Engineer • Full-Stack Architect • Research-Driven Builder</h3>
+
+<h3 align="center">
+AI Systems Engineer • Full-Stack Architect • Research-Driven Builder
+</h3>
 
 <p align="center">
-  I design intelligent systems that analyze, debate, detect, retrieve, and recommend.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+AI+that+debates+beliefs;Designing+Retrieval+Systems;Engineering+Computer+Vision+for+Agriculture;Architecting+Scalable+Full-Stack+Platforms;Intelligence+is+Engineered." />
+  </a>
 </p>
 
 ---
 
-# 🧠 Who I Am
+<!-- ================= BADGES ================= -->
 
-I don’t just write code.
-
-I engineer systems that:
-- Understand human emotion
-- Challenge human belief
-- Detect patterns in crops
-- Retrieve identities from images
-- Scale from prototype to production
-
-My work sits at the intersection of:
-
-AI • Systems Architecture • Full-Stack Engineering • Real-World Impact
-
-I believe intelligence is not magic.
-It is engineered.
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Systems-black?style=for-the-badge&logo=OpenAI&color=ff6600"/>
+  <img src="https://img.shields.io/badge/FullStack-Engineer-black?style=for-the-badge&logo=react&color=ff6600"/>
+  <img src="https://img.shields.io/badge/Research-Oriented-black?style=for-the-badge&logo=python&color=ff6600"/>
+  <img src="https://img.shields.io/badge/OpenSource-Enthusiast-black?style=for-the-badge&logo=github&color=ff6600"/>
+</p>
 
 ---
 
-# 🚀 What I’m Building
+# 🧠 About Me
+
+I design intelligent systems that:
+
+- Analyze beliefs  
+- Detect identity  
+- Model human emotion  
+- Retrieve visual patterns  
+- Scale from research to production  
+
+My work combines:
+
+> AI • Computer Vision • Retrieval Systems • Backend Architecture • Real-World Deployment  
+
+I don’t build features.  
+I build ecosystems.
+
+---
+
+# 🧬 AI & Research Systems
 
 ## 🧠 NemesisAI — Belief-Aware Debate Engine
-An AI system that:
-- Analyzes user belief structures
-- Generates structured counter-arguments
-- Integrates real-time web search
-- Uses modular architecture (no paid APIs)
-
-Focus: reasoning systems, retrieval pipelines, argument generation logic.
+- Structured argument generation  
+- Real-time web search integration  
+- Modular reasoning pipeline  
+- Dark-mode React + Node backend  
 
 ---
 
-## 🌾 Wheat Crop Health Intelligence (Research)
-Master’s research project:
-Enhancing Wheat Crop Health Using Image Processing & ML
-
-- Disease detection via Computer Vision
-- Stress pattern analysis
-- Model evaluation (AUC, precision, recall)
-- Comparative ML architecture experiments
-
-Goal: AI for agriculture impact.
-
----
-
-## 🔎 Reverse Image Intelligence System
-A system capable of:
-- Face embedding extraction
-- Similarity search
-- Reverse image retrieval
-- Geolocation integration
-- Cloud-based image handling
-
-Use case: missing person detection & identity matching.
+## 🌾 Wheat Crop Health Intelligence (Master’s Research)
+- Disease detection via Computer Vision  
+- Stress classification models  
+- Experimental ML benchmarking  
+- Agricultural AI impact  
 
 ---
 
 ## 🎭 Mood-Based Location Recommender
-Emotion detection → behavior modeling → place recommendation.
-
-- Facial emotion classification
-- Context-based filtering
-- User-specific recommendation logic
-- MongoDB-backed tracking
-
-AI meets behavioral modeling.
+- Facial emotion detection  
+- Behavior-aware recommendation engine  
+- MongoDB-backed analytics  
 
 ---
 
-## 🛒 Production-Level Platforms
-
-### AK Shop
-- Full MERN e-commerce
-- Authentication + Payments
-- Real-time chat
-- Modular backend architecture
-
-### Krushak
-- Farmers’ marketplace
-- Payment pipeline
-- Live chat system
-- Built for small agricultural sellers
+## 🔎 Reverse Image Intelligence System
+- Face embeddings  
+- Similarity retrieval  
+- Cloud image integration  
+- Geolocation mapping  
 
 ---
 
-# 🛠 Technical Depth
+## 🧠 Fake Persona Detector (AI Research Direction)
+- AI-generated vs real profile detection  
+- Image + text behavioral analysis  
 
-## 🔬 AI / Machine Learning
-- TensorFlow
-- OpenCV
-- scikit-learn
-- Face Embeddings
-- Computer Vision Pipelines
-- NLP-driven belief analysis
+---
 
-## ⚙ Backend Systems
-- Node.js
-- Express.js
-- FastAPI
-- Flask
-- REST API design
-- Authentication & SMTP verification
-- Cloud deployment (Render)
+## 🧘 MindMood (AI Mental Health Companion – Concept)
+- Text & voice emotion analysis  
+- Private local AI architecture  
 
-## 🖥 Frontend Engineering
-- React.js
-- Redux
-- Tailwind CSS
-- Material UI
-- Flutter
-- React Native
+---
 
-## 🧩 Systems Programming
-- C
-- C++
-- C#
-- Python
+# 🌍 Applied Platforms
+
+## 🆘 Missing Person Finder
+- Reverse image search  
+- GPS tracking  
+- Status lifecycle system  
+- Streamlit + MongoDB  
+
+---
+
+## 🛒 AK Shop
+- Full MERN e-commerce  
+- Payment gateway  
+- Real-time chat  
+- Production-ready architecture  
+
+---
+
+## 🌾 Krushak – Farmers’ Marketplace
+- Direct farmer-to-consumer model  
+- Payment + live chat  
+
+---
+
+## 💼 Educational Job Bot Platform
+- Job listings  
+- Payment system  
+- Dashboard architecture  
+
+---
+
+## 📅 Interview Scheduling System (Flutter)
+- Elegant UI redesign  
+- Candidate-job mapping  
+- Structured backend linkage  
+
+---
+
+## 💬 Python-Based Chat Application
+- WhatsApp-style messaging  
+- MongoDB backend  
+- Real-time communication logic  
+
+---
+
+# 🛠 Tech Stack
+
+### 🤖 AI / ML
+TensorFlow • OpenCV • scikit-learn  
+Face Embeddings • NLP • CV Pipelines  
+
+### ⚙ Backend
+Node.js • Express • FastAPI • Flask  
+MongoDB • REST APIs • SMTP Auth  
+Cloud Deployment (Render)
+
+### 🖥 Frontend
+React • Redux • Tailwind • MUI  
+Flutter • React Native  
+
+### 🧩 Systems
+C • C++ • C# • Python  
 
 ---
 
 # 🧬 Engineering Philosophy
 
-Depth > noise  
-Architecture > hacks  
-Modularity > chaos  
-Evaluation > assumption  
-Impact > tutorial clones  
+✔ Modular over monolithic  
+✔ Evaluated over assumed  
+✔ Structured reasoning over random generation  
+✔ Production-ready over demo-only  
 
-I don’t build for GitHub stars.
-I build for system integrity.
+> Intelligence isn’t accidental. It’s architected.
 
 ---
 
-# 📈 What Defines My Work
+# 📊 GitHub Analytics
 
-✔ Real-time AI reasoning  
-✔ Retrieval systems  
-✔ Structured backend architecture  
-✔ Research-backed experimentation  
-✔ Production deployment  
-✔ Clean UI/UX alignment with AI systems  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alok-fusion&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-fusion&theme=radical&hide_border=true" height="160"/>
+</p>
 
----
-
-# 🌍 Vision
-
-Long-term, I aim to build:
-
-- Belief-aware AI systems  
-- Emotion-adaptive platforms  
-- AI for agriculture & human decision-making  
-- Scalable intelligent infrastructure  
-
-Not tools that just respond.  
-Systems that think.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alok-fusion&show_icons=true&layout=compact&theme=radical&hide_border=true"/>
+</p>
 
 ---
 
-# 📊 GitHub Stats
+# 🌍 Connect With Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alok-fusion&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-fusion&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alok-fusion&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" />
-</div>
-
----
-
-# 🤝 Let’s Connect
-
-📧 kushwahaalok025@gmail.com  
-💼 linkedin.com/in/akushwaha-j  
-🐦 twitter.com/alokk983  
-
----
-
-> “Intelligence isn’t accidental. It’s architected.”
+<p align="center">
+  <a href="mailto:kushwahaalok025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail&color=ff6600"/>
+  </a>
+  <a href="https://linkedin.com/in/akushwaha-j">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin&color=ff6600"/>
+  </a>
+  <a href="https://twitter.com/alokk983">
+    <img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=twitter&color=ff6600"/>
+  </a>
+</p>
