@@ -1,214 +1,161 @@
-<!-- ================== ANIMATED HERO ================== -->
-
-<h1 align="center">⚡ ALOK KUSHWAHA ⚡</h1>
+<!-- ===================== CUSTOM DARK BANNER ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=FF6A00&center=true&vCenter=true&width=900&lines=AI+Systems+Engineer;Full-Stack+Architect;Finance+%2B+Agriculture+%2B+Behavioral+AI;Builder+of+Intelligent+Infrastructure;I+Design+Systems+That+Think." />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Engineer-black?style=for-the-badge&color=FF6A00"/>
-  <img src="https://img.shields.io/badge/Systems-Architect-black?style=for-the-badge&color=FF6A00"/>
-  <img src="https://img.shields.io/badge/FinTech-Builder-black?style=for-the-badge&color=FF6A00"/>
-  <img src="https://img.shields.io/badge/Research-Driven-black?style=for-the-badge&color=FF6A00"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:FF6A00&height=250&section=header&text=ALOK%20KUSHWAHA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Systems%20Engineer%20%7C%20Infrastructure%20Architect&descAlignY=60&descAlign=50"/>
 </p>
 
 ---
 
-# 🧠 CORE IDENTITY
-
-I build intelligent systems across industries.
-
-Not experiments.  
-Not clones.  
-Architected infrastructure.
-
-Domains I operate in:
-
-AI • Finance • Agriculture • Identity Retrieval • Behavioral Modeling • Marketplace Systems • Automation Platforms
-
----
-
-# 🏦 FINTECH & FINANCIAL SYSTEMS
-
-## 💰 Fraud Detection System
-- Transaction anomaly detection
-- ML classification models
-- Risk scoring architecture
-- Real-world financial data simulation
-
-## 📊 FinTech Analytics Platform
-- Financial pattern modeling
-- Predictive ML components
-- Data visualization pipelines
-
-## 💳 Payment-Integrated Systems
-- Secure payment gateway implementation
-- Authentication & authorization layers
-- Transaction lifecycle tracking
-
-Tech:
-Python • scikit-learn • TensorFlow • MongoDB • REST APIs
-
----
-
-# 🌾 AGRICULTURE & FOOD SYSTEMS
-
-## 🌾 Wheat Crop Health Intelligence (Research)
-- Disease classification (Computer Vision)
-- Stress pattern analysis
-- Model benchmarking (AUC, loss, accuracy)
-- Experimental ML comparisons
-
-## 🌱 Krushak — Farmers Marketplace
-- Direct farmer-to-consumer platform
-- Payment integration
-- Real-time chat system
-- MERN architecture
-
-Industry Focus:
-AI for agriculture + economic empowerment
-
----
-
-# 🤖 ARTIFICIAL INTELLIGENCE SYSTEMS
-
-## 🧠 NemesisAI
-Belief-aware debate engine
-
-- Structured reasoning pipeline
-- Real-time web search integration
-- Argument modeling
-- Modular architecture
-
-## 🎭 Mood-Based Location Recommender
-- Emotion detection via CV
-- Behavior-aware recommendations
-- MongoDB-backed analytics
-
-## 🧠 Fake Persona Detector
-- AI-generated vs real profile detection
-- Image + text behavioral modeling
-- Deepfake detection direction
-
-## 🧘 MindMood (Private AI Companion)
-- Text & voice emotional analysis
-- Local LLM integration roadmap
-
----
-
-# 🔎 IDENTITY & RETRIEVAL SYSTEMS
-
-## 🆘 Missing Person Finder
-- Reverse image search
-- Face embeddings
-- GPS tracking
-- Cloudinary + SerpAPI integration
-- MongoDB lifecycle system
-
-## 🔎 AI Reverse Image Intelligence Platform
-- Face embedding extraction
-- Similarity search engine
-- Internet-scale retrieval logic
-- Visual result interface
-
----
-
-# 🏗 FULL-STACK & PRODUCT SYSTEMS
-
-## 🛒 AK Shop (E-Commerce)
-- Authentication
-- Payment pipeline
-- Real-time chat
-- Role-based architecture
-- Production deployment ready
-
-## 💼 Educational Job Bot
-- Job listing engine
-- Payment features
-- Structured dashboard
-
-## 📅 Interview Scheduling System (Flutter)
-- Candidate-job mapping
-- Dynamic interview detail view
-- Elegant UI architecture
-
-## 💬 Python-Based Chat Application
-- WhatsApp-like messaging
-- MongoDB backend
-- Real-time logic
-
-## 🖥 Tkinter Desktop Control System
-- User authentication
-- Executable management
-- Structured UI flow
-
----
-
-# 🧩 AI INFRASTRUCTURE & ARCHITECTURE WORK
-
-## 🗂 Modular RAG Architecture
-- LangChain-style abstraction
-- No paid APIs
-- Clean FastAPI backend
-- Structured pipeline design
-
-## 🧠 Local LLaMA AI Assistant
-- llama.cpp experimentation
-- Open-source LLM setup
-- Modular chatbot design
-- Voice integration roadmap
-
----
-
-# 🛠 TECHNOLOGY MATRIX
-
-### AI / ML
-TensorFlow • scikit-learn • OpenCV • Face Embeddings • NLP • CV Pipelines
-
-### Backend
-Node.js • Express • FastAPI • Flask • REST APIs • SMTP Auth
-
-### Frontend
-React • Redux • Tailwind • MUI • Flutter • React Native
-
-### Systems
-Python • C • C++ • C#  
-
-### Database
-MongoDB (Cloud & Local)
-
----
-
-# 🧬 ENGINEERING PRINCIPLES
-
-✔ Modular Architecture  
-✔ Scalable Backend Design  
-✔ Evaluated ML Models  
-✔ Structured Retrieval Systems  
-✔ Industry-Oriented AI Applications  
-
----
-
-# 📊 LIVE ACTIVITY
+<!-- ===================== TYPING ANIMATION ===================== -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alok-fusion&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-fusion&theme=radical&hide_border=true"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=FF6A00&center=true&vCenter=true&width=900&lines=Building+AI+That+Debates+Beliefs;Designing+Finance+%26+Fraud+Detection+Systems;Engineering+Computer+Vision+for+Agriculture;Architecting+Retrieval+%26+Identity+Systems;Intelligence+Is+Engineered." />
 </p>
 
 ---
 
-# 🌍 CONNECT
-
-📧 kushwahaalok025@gmail.com  
-💼 linkedin.com/in/akushwaha-j  
-🐦 twitter.com/alokk983  
+# 🧠 INDUSTRY DOMAINS
 
 ---
 
-> I don’t build applications.  
-> I build intelligent infrastructure.
+## 🏦 FINTECH SYSTEMS
+<p>
+  <img src="https://img.shields.io/badge/Fraud%20Detection-ML-black?style=for-the-badge&color=FF6A00"/>
+  <img src="https://img.shields.io/badge/Payments-Secure-black?style=for-the-badge&color=FF6A00"/>
+  <img src="https://img.shields.io/badge/Analytics-Financial%20Modeling-black?style=for-the-badge&color=FF6A00"/>
+</p>
+
+<details>
+<summary><b>View FinTech Projects</b></summary>
+
+- Fraud Detection ML System  
+- Financial Risk Scoring Engine  
+- Payment Integrated E-Commerce (AK Shop)  
+- Educational Job Bot (Payment Enabled)  
+- Financial Data Analytics Experiments  
+
+</details>
+
+---
+
+## 🌾 AGRICULTURE & FOOD AI
+<p>
+  <img src="https://img.shields.io/badge/Computer%20Vision-Crop%20Health-black?style=for-the-badge&color=FF6A00"/>
+  <img src="https://img.shields.io/badge/Marketplace-Farmer%20Platform-black?style=for-the-badge&color=FF6A00"/>
+</p>
+
+<details>
+<summary><b>View Agriculture Projects</b></summary>
+
+- Wheat Crop Health Intelligence (Research)  
+- Disease Detection via CV  
+- Krushak Marketplace (Payments + Chat)  
+
+</details>
+
+---
+
+## 🤖 ARTIFICIAL INTELLIGENCE SYSTEMS
+<p>
+  <img src="https://img.shields.io/badge/Belief%20Modeling-AI-black?style=for-the-badge&color=FF6A00"/>
+  <img src="https://img.shields.io/badge/Emotion%20AI-Behavioral%20Modeling-black?style=for-the-badge&color=FF6A00"/>
+  <img src="https://img.shields.io/badge/Deepfake-Detection-black?style=for-the-badge&color=FF6A00"/>
+</p>
+
+<details>
+<summary><b>View AI Systems</b></summary>
+
+- NemesisAI (Debate Engine)  
+- Mood-Based Location Recommender  
+- Fake Persona Detector  
+- MindMood (AI Companion Concept)  
+- Local LLaMA AI Assistant  
+
+</details>
+
+---
+
+## 🔎 IDENTITY & RETRIEVAL SYSTEMS
+<p>
+  <img src="https://img.shields.io/badge/Face%20Embeddings-Similarity%20Search-black?style=for-the-badge&color=FF6A00"/>
+  <img src="https://img.shields.io/badge/Reverse%20Image-Intelligence-black?style=for-the-badge&color=FF6A00"/>
+</p>
+
+<details>
+<summary><b>View Retrieval Systems</b></summary>
+
+- Missing Person Finder  
+- AI Reverse Image Intelligence System  
+- Geolocation Mapping Integration  
+
+</details>
+
+---
+
+## 🏗 FULL-STACK PLATFORMS
+<p>
+  <img src="https://img.shields.io/badge/MERN-Architecture-black?style=for-the-badge&color=FF6A00"/>
+  <img src="https://img.shields.io/badge/Flutter-Mobile%20Systems-black?style=for-the-badge&color=FF6A00"/>
+</p>
+
+<details>
+<summary><b>View Platforms</b></summary>
+
+- AK Shop (E-Commerce)  
+- Educational Job Bot  
+- Interview Scheduling System  
+- Python Chat Application  
+- Tkinter Desktop System  
+
+</details>
+
+---
+
+# 📊 GITHUB INTELLIGENCE PANEL
+
+## 🏆 Trophy Board
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alok-fusion&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
+
+---
+
+## 📈 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alok-fusion&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+## 📊 Core Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alok-fusion&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-fusion&theme=radical&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alok-fusion/alok-fusion/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🧬 TECHNOLOGY MATRIX
+
+AI / ML → TensorFlow • OpenCV • scikit-learn  
+Backend → Node • Express • FastAPI • Flask  
+Frontend → React • Tailwind • Flutter  
+Systems → Python • C • C++ • C#  
+Database → MongoDB  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,100:000000&height=120&section=footer"/>
+</p>
