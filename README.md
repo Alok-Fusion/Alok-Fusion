@@ -1,199 +1,229 @@
-<!-- ===================== TOP BANNER ===================== -->
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:FF6A00&height=260&section=header&text=ALOK%20KUSHWAHA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%7C%20NLP%20%2F%20GenAI%20%7C%20Agentic%20Systems%20%7C%20Computer%20Vision&descAlignY=60&descAlign=50"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=ALOK%20KUSHWAHA&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%E2%80%A2%20NLP%2FGenAI%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20Computer%20Vision&descAlignY=58&descAlign=50&descColor=d8d8ff"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alok-Fusion&label=PROFILE%20VIEWS&color=ff6a00&style=for-the-badge"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Legal-BERT+%2B+GNN+Contract+Risk+Analysis;Agentic+Financial+Decision+Intelligence;Biomedical+%26+Off-road+Computer+Vision;Published+Researcher+%E2%80%94+INDJCST+2026;Building+End-to-End+ML+Systems%2C+Not+Just+Models"/>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
+<br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=800&color=FF6A00&center=true&vCenter=true&width=950&lines=MSc+Data+Science+%7C+SIES+College%2C+Mumbai;Legal-BERT+%2B+GNN+Contract+Risk+Analysis;Agentic+Financial+Decision+Intelligence;Biomedical+%26+Off-road+Computer+Vision;Published+Researcher+%7C+INDJCST+2026"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Alok-Fusion&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MSc%20Data%20Science-CGPA%208.57-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-8B5CF6?style=for-the-badge"/>
 
----
+<br><br>
 
-# 👋 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akushwaha-j)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-data-omega.vercel.app)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alokk9833)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alok-Fusion)
 
-MSc Data Science graduate (SIES College of Arts, Science & Commerce, Mumbai — CGPA 8.57), with a BSc in Information Technology (CGPA 9.03) from the same institution. I build and ship end-to-end ML/NLP/GenAI systems — from research-grade NLP pipelines to agentic decision-intelligence platforms to production computer vision tools — and publish my work.
+</div>
 
-I've completed internships in GenAI & ML (Innomatics Research Labs), AI Model Training (Outlier.ai), and Software Development (MGrid Technologies), and I'm currently applying for full-time roles across applied ML, NLP, GenAI, and data science.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0f0c29&height=3&width=100%"/>
 
----
+<br>
 
-# ⚙️ TECH ARSENAL
+## 🧭 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,nodejs,react,nextjs,mongodb,sqlite,docker,git,linux" />
-</p>
+I'm an MSc Data Science graduate (SIES College of Arts, Science & Commerce, Mumbai — CGPA 8.57) with a BSc in Information Technology (CGPA 9.03), also from SIES. I design and ship complete ML systems — not just notebooks — spanning research-grade NLP, agentic decision-intelligence platforms, biomedical and off-road computer vision, and developer tooling used in real deployment pipelines.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:0f0f0f&height=3"/>
-</p>
+My anchor project, **ClauseWise**, is a Legal-BERT + Graph Neural Network contract-risk system published as a peer-reviewed paper. I've completed three internships — GenAI & ML at Innomatics Research Labs, AI Model Training at Outlier.ai, and Software Development at MGrid Technologies — and I'm currently pursuing full-time roles in applied ML, NLP, GenAI, and data science.
 
----
+<table align="center">
+<tr>
+<td align="center"><b>🎓 Education</b><br/>MSc Data Science (8.57) · BSc IT (9.03)<br/>SIES College, Mumbai</td>
+<td align="center"><b>💼 Experience</b><br/>3 Internships<br/>GenAI/ML · Model Training · SDE</td>
+<td align="center"><b>📄 Publication</b><br/>INDJCST Vol. 5, No. 1, 2026<br/>ClauseWise (Legal-BERT + GNN)</td>
+</tr>
+</table>
 
-# 🧠 PROJECT DOMAINS
+<br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0f0c29&height=3&width=100%"/>
 
-## 📜 NLP / LEGAL TECH — RESEARCH
-<p>
-  <img src="https://img.shields.io/badge/Legal--BERT-Contract%20Risk%20Analysis-black?style=for-the-badge&color=FF6A00"/>
-  <img src="https://img.shields.io/badge/GNN-Clause%20Relationship%20Modeling-black?style=for-the-badge&color=FF6A00"/>
-  <img src="https://img.shields.io/badge/Published-INDJCST%202026-black?style=for-the-badge&color=FF6A00"/>
-</p>
+## ⚙️ Tech Arsenal
 
-<details>
-<summary><b>View NLP / Legal Tech Systems</b></summary>
+<div align="center">
 
-**ClauseWise** — Legal-BERT and Graph Neural Network based contract risk analysis system. Achieves F1 0.90 / 89% accuracy across 530+ contract clauses. Published as a peer-reviewed paper in *INDJCST, Vol. 5, No. 1, 2026* (DOI: [10.59256/indjcst.20260501041](https://doi.org/10.59256/indjcst.20260501041)), co-authored with faculty HOD.
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,nodejs,ts,react,nextjs,mongodb,sqlite,docker,git,linux,vercel&theme=dark" />
 
-Tech Stack: Python • Legal-BERT • PyTorch Geometric (GNN) • scikit-learn
+</div>
 
-</details>
+**Machine Learning / Deep Learning** → PyTorch · TensorFlow · Legal-BERT · Graph Neural Networks (PyTorch Geometric) · CNNs · DeepLabV3+ · SegFormer · scikit-learn · scikit-image · Grad-CAM · PCA / t-SNE
+**GenAI / Retrieval** → Gemini 2.5 Flash · FAISS · RAG pipelines · Agentic multi-agent architectures
+**Backend** → Node.js · Express · FastAPI · TypeScript · JWT-RBAC
+**Frontend** → React · Next.js 15 · Tailwind CSS
+**Data** → SQL (SQLite) · pandas · NumPy · matplotlib · seaborn
+**Infra / Tooling** → Docker · Git · npm CLI packaging · Render / Vercel deployment
 
----
+<br>
 
-## 🤖 AGENTIC AI & FINTECH SYSTEMS
-<p>
-  <img src="https://img.shields.io/badge/Agentic%20AI-Decision%20Intelligence-black?style=for-the-badge&color=FF6A00"/>
-  <img src="https://img.shields.io/badge/Multi--Agent-Enterprise%20Systems-black?style=for-the-badge&color=FF6A00"/>
-  <img src="https://img.shields.io/badge/SBI%20Hackathon-2026-black?style=for-the-badge&color=FF6A00"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0f0c29&height=3&width=100%"/>
 
-<details>
-<summary><b>View Agentic AI / FinTech Systems</b></summary>
+## 🔬 Research & Publication
 
-**NIRNAY (निर्णय)** — Agentic Financial Decision Intelligence platform built for SBI Hackathon 2026 (Digital Engagement theme), targeting manipulation-driven authorized payment fraud rather than traditional transaction fraud detection.
+<table>
+<tr><td width="100%">
 
-**SureVision AI** — Multi-agent enterprise decision intelligence platform with JWT-based RBAC and a Stakeholder Dissent Tracker for surfacing disagreement across simulated decision-making agents.
+### 📜 ClauseWise — Legal-BERT + GNN Contract Risk Analysis
+Legal-BERT and Graph Neural Network based system for automated contract clause risk analysis. Achieves **F1 0.90 / 89% accuracy** across 530+ real-world contract clauses. Published as a peer-reviewed paper in *INDJCST, Vol. 5, No. 1, 2026* — [DOI: 10.59256/indjcst.20260501041](https://doi.org/10.59256/indjcst.20260501041), co-authored with faculty HOD.
 
-Tech Stack: Node.js • TypeScript • MongoDB • Next.js 15 • Gemini • JWT-RBAC
+`Python` `Legal-BERT` `PyTorch Geometric` `scikit-learn`
 
-</details>
+</td></tr>
+</table>
 
----
+<br>
 
-## 🔬 COMPUTER VISION
-<p>
-  <img src="https://img.shields.io/badge/Biomedical%20Imaging-CNN%20Classification-black?style=for-the-badge&color=FF6A00"/>
-  <img src="https://img.shields.io/badge/Semantic%20Segmentation-DeepLabV3%2B-black?style=for-the-badge&color=FF6A00"/>
-  <img src="https://img.shields.io/badge/Interpretability-Grad--CAM-black?style=for-the-badge&color=FF6A00"/>
-</p>
+## 🤖 Agentic AI & FinTech Systems
 
-<details>
-<summary><b>View Computer Vision Systems</b></summary>
+<table>
+<tr><td width="50%" valign="top">
 
-**HemoVision** — CNN-based blood cell classification on BloodMNIST (8 classes), with Grad-CAM interpretability, PCA/t-SNE embedding analysis, and a full multi-panel evaluation dashboard. 94.1% test accuracy, 0.932 macro F1.
+### 🧠 NIRNAY (निर्णय)
+Agentic Financial Decision Intelligence platform built for **SBI Hackathon 2026** (Digital Engagement theme). Targets manipulation-driven authorized payment fraud — social-engineering-based scams — rather than traditional transaction-pattern fraud detection.
 
-**Off-road Semantic Segmentation** — Built for Hawkathon 2026 (Duality AI), using DeepLabV3+ with a ResNet-50 backbone for terrain segmentation in off-road driving scenes.
+`Node.js` `TypeScript` `Gemini`
 
-Tech Stack: PyTorch • OpenCV • scikit-image • Grad-CAM • DeepLabV3+
+</td><td width="50%" valign="top">
 
-</details>
+### 🕸️ SureVision AI
+Multi-agent enterprise decision-intelligence platform with JWT-based RBAC and a custom **Stakeholder Dissent Tracker** that surfaces disagreement across simulated decision-making agents.
 
----
+`Next.js 15` `MongoDB` `Gemini` `JWT-RBAC`
 
-## 📊 DATA & BUSINESS ANALYTICS
-<p>
-  <img src="https://img.shields.io/badge/SQL-Window%20Functions%20%2F%20CTEs-black?style=for-the-badge&color=FF6A00"/>
-  <img src="https://img.shields.io/badge/Logistics-Freight%20Analytics-black?style=for-the-badge&color=FF6A00"/>
-</p>
+</td></tr>
+</table>
 
-<details>
-<summary><b>View Data & Analytics Systems</b></summary>
+<br>
 
-**RouteScope** — Freight & logistics operations analytics project: SQL-driven analysis (joins, CTEs, window functions) over shipment data, carrier/route performance dashboards, and a business requirement document (BRD) translating findings into operational recommendations.
+## 👁️ Computer Vision
 
-Tech Stack: Python • SQL (SQLite) • pandas • matplotlib/seaborn
+<table>
+<tr><td width="50%" valign="top">
 
-</details>
+### 🩸 HemoVision
+CNN-based blood cell classification on **BloodMNIST** (8 classes) with Grad-CAM interpretability and PCA/t-SNE embedding analysis, packaged into a full multi-panel evaluation dashboard.
 
----
+**94.1% test accuracy · 0.932 macro F1**
 
-## 🛠 DEVELOPER TOOLING & PLATFORMS
-<p>
-  <img src="https://img.shields.io/badge/npm%20CLI-Deployment%20Safety-black?style=for-the-badge&color=FF6A00"/>
-  <img src="https://img.shields.io/badge/FastAPI-RAG%20%2F%20Retrieval-black?style=for-the-badge&color=FF6A00"/>
-</p>
+`PyTorch` `scikit-image` `Grad-CAM`
+[Repo →](https://github.com/Alok-Fusion/hemovision)
 
-<details>
-<summary><b>View Tooling & Platform Engineering</b></summary>
+</td><td width="50%" valign="top">
 
-**predeploy-check** — npm CLI tool that catches Render/Vercel deployment failures before they happen, shipped through v1.2.0 with 59 tests, `--json` output mode, and a `--live` PyPI verification flag.
+### 🏔️ Off-road Semantic Segmentation
+Terrain segmentation system for off-road driving scenes, built for **Hawkathon 2026 (Duality AI)** using DeepLabV3+ with a ResNet-50 backbone.
 
-**SHL Assessment Recommender** — Conversational assessment-recommendation system built with FastAPI + FAISS + Gemini 2.5 Flash, deployed on Render, developed as a take-home technical assignment.
+`DeepLabV3+` `ResNet-50` `OpenCV`
 
-**Personal Portfolio** — 13-project developer portfolio built with Next.js, deployed on Vercel.
+</td></tr>
+</table>
 
-Tech Stack: Node.js • FastAPI • FAISS • Gemini • Next.js • Vercel
+<br>
 
-</details>
+## 📊 Data & Business Analytics
 
----
+<table>
+<tr><td width="100%">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6A00,100:0f0f0f&height=3"/>
-</p>
+### 🚛 RouteScope
+Freight & logistics operations analytics project — SQL-driven analysis (joins, CTEs, window functions) over shipment data, carrier/route performance dashboards, and a business requirement document (BRD) translating findings into operational recommendations.
 
-# 📈 GITHUB INTELLIGENCE PANEL
+`Python` `SQLite` `pandas` `matplotlib`
+[Repo →](https://github.com/Alok-Fusion/route_scopes)
 
-## 🏆 Achievement Matrix
+</td></tr>
+</table>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alok-Fusion&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=6&rank=-?&cache_seconds=1800"/>
-</p>
+<br>
 
----
+## 🛠️ Developer Tooling & Platforms
 
-## 📊 Contribution Activity
+<table>
+<tr><td width="33%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alok-Fusion&theme=react-dark&area=true&hide_border=true"/>
-</p>
+### 📦 predeploy-check
+npm CLI tool that catches Render/Vercel deployment failures before they happen. Shipped through **v1.2.0** with 59 tests, `--json` output mode, and a `--live` PyPI verification flag.
 
----
+`Node.js` `npm`
 
-## 📉 Core Metrics
+</td><td width="33%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alok-Fusion&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=Alok-Fusion&theme=radical&hide_border=true" height="170"/>
-</p>
+### 🔎 SHL Assessment Recommender
+Conversational assessment-recommendation system built as a technical take-home assignment, deployed on Render.
 
----
+`FastAPI` `FAISS` `Gemini 2.5 Flash`
 
-## 🐍 Contribution Snake
+</td><td width="33%" valign="top">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Alok-Fusion/Alok-Fusion/output/github-contribution-grid-snake.svg"/>
-</p>
+### 💼 Portfolio
+Personal developer portfolio featuring 13 projects, built with Next.js and deployed on Vercel.
 
----
+`Next.js` `Vercel`
 
-# 🧬 TECHNOLOGY MATRIX
+</td></tr>
+</table>
 
-**AI / ML** → PyTorch • TensorFlow • Legal-BERT • GNNs (PyTorch Geometric) • scikit-learn • scikit-image
-**Retrieval / GenAI** → FAISS • Gemini • RAG pipelines
-**Backend** → Node.js • Express • FastAPI • TypeScript
-**Frontend** → React • Next.js • Tailwind
-**Data / Analytics** → SQL (SQLite) • pandas • matplotlib • seaborn
-**Systems** → Python • Docker • Git
+<br>
 
----
+## 🏗️ Hackathons & Systems Engineering
 
-# 📫 Connect
+<table>
+<tr><td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/akushwaha-j"><img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&color=FF6A00"/></a>
-  <a href="https://portfolio-data-omega.vercel.app"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&color=FF6A00"/></a>
-  <a href="https://medium.com/@alokk9833"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&color=FF6A00"/></a>
-</p>
+### 📅 Appointment Booking System
+Built during a 24-hour **Odoo VIT Hackathon** — features MongoDB TTL-based double-booking prevention.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A00,100:0f0f0f&height=130&section=footer"/>
-</p>
+`MongoDB` `TTL Indexes`
+
+</td><td width="50%" valign="top">
+
+### 🩹 Schedulix
+Debugged a Node.js/Express/Mongoose booking backend — resolved SMTP misconfiguration, Markdown-corrupted error-handler conditions, and a double-save Mongoose pattern.
+
+`Node.js` `Express` `Mongoose`
+
+</td></tr>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0f0c29&height=3&width=100%"/>
+
+## 📈 GitHub Intelligence Panel
+
+<div align="center">
+
+### 🏆 Achievement Matrix
+<img src="https://github-profile-trophy.vercel.app/?username=Alok-Fusion&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=6&rank=-?&cache_seconds=1800"/>
+
+### 📊 Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alok-Fusion&theme=react-dark&area=true&hide_border=true"/>
+
+### 📉 Core Metrics
+<img src="https://github-readme-stats.vercel.app/api?username=Alok-Fusion&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Alok-Fusion&theme=tokyonight&hide_border=true" height="170"/>
+
+### 🐍 Contribution Snake
+<img src="https://raw.githubusercontent.com/Alok-Fusion/Alok-Fusion/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:0f0c29&height=3&width=100%"/>
+
+<div align="center">
+
+### 📫 Let's Connect
+
+**Open to full-time roles in Applied ML · NLP · GenAI · Data Science · Computer Vision**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akushwaha-j)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-data-omega.vercel.app)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alokk9833)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
+
+</div>
