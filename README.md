@@ -34,9 +34,13 @@ My anchor project, **ClauseWise**, is a Legal-BERT + Graph Neural Network contra
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Alok-Fusion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=38BDF8&text_color=c9d1d9&ring_color=7C5CFC" height="170"/>
+<a href="https://github.com/Alok-Fusion">
+<img src="https://github-readme-stats.vercel.app/api?username=Alok-Fusion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=38BDF8&text_color=c9d1d9&ring_color=7C5CFC&cache_seconds=86400" height="170"/>
+</a>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-Fusion&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" height="170"/>
+<a href="https://github.com/Alok-Fusion">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-Fusion&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8&cache_seconds=86400" height="170"/>
+</a>
 </div>
 
 <br>
@@ -364,13 +368,17 @@ Debugged a Node.js/Express/Mongoose booking backend — resolved SMTP misconfigu
 ## 📈 &nbsp; Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alok-Fusion&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=7C5CFC&point=38BDF8&area=true&area_color=7C5CFC" width="95%"/>
+<a href="https://github.com/Alok-Fusion">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alok-Fusion&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=7C5CFC&point=38BDF8&area=true&area_color=7C5CFC" width="95%" alt="Contribution Graph"/>
+</a>
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Alok-Fusion&theme=tokyonight_duo&hide_border=true&background=0d1117&ring=7C5CFC&fire=F472B6&currStreakLabel=A78BFA&sideLabels=38BDF8&dates=6B7280" width="55%"/>
+<a href="https://github.com/Alok-Fusion">
+<img src="https://streak-stats.demolab.com?user=Alok-Fusion&theme=tokyonight_duo&hide_border=true&background=0d1117&ring=7C5CFC&fire=F472B6&currStreakLabel=A78BFA&sideLabels=38BDF8&dates=6B7280" width="55%" alt="GitHub Streak"/>
+</a>
 </div>
 
 <br>
