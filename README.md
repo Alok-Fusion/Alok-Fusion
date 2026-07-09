@@ -35,11 +35,17 @@ My anchor project, **ClauseWise**, is a Legal-BERT + Graph Neural Network contra
 
 <div align="center">
 <a href="https://github.com/Alok-Fusion">
-<img src="https://github-readme-stats.vercel.app/api?username=Alok-Fusion&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=38BDF8&text_color=c9d1d9&ring_color=7C5CFC&cache_seconds=86400" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alok-Fusion&theme=tokyonight" height="170" alt="GitHub Stats"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Alok-Fusion">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alok-Fusion&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8&cache_seconds=86400" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Alok-Fusion&theme=tokyonight" height="170" alt="Top Languages"/>
+</a>
+</div>
+
+<div align="center">
+<a href="https://github.com/Alok-Fusion">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alok-Fusion&theme=tokyonight" width="70%" alt="Profile Details"/>
 </a>
 </div>
 
