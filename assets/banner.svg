@@ -1,30 +1,100 @@
-<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="280" viewBox="0 0 1000 280" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a0a12"/>
-      <stop offset="100%" stop-color="#161320"/>
+      <stop offset="0%" stop-color="#06060e"/>
+      <stop offset="50%" stop-color="#0d0b18"/>
+      <stop offset="100%" stop-color="#110e1f"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7C5CFC"/>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#7C5CFC">
+        <animate attributeName="stop-color" values="#7C5CFC;#38BDF8;#F472B6;#7C5CFC" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#38BDF8">
+        <animate attributeName="stop-color" values="#38BDF8;#F472B6;#7C5CFC;#38BDF8" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8E0FF"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+    <linearGradient id="subtitleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#A78BFA"/>
+      <stop offset="50%" stop-color="#818CF8"/>
       <stop offset="100%" stop-color="#38BDF8"/>
     </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
-  <rect width="1000" height="260" fill="url(#bg)"/>
-  <!-- subtle grid -->
-  <g stroke="#232030" stroke-width="1">
-    <line x1="0" y1="65" x2="1000" y2="65"/>
-    <line x1="0" y1="130" x2="1000" y2="130"/>
-    <line x1="0" y1="195" x2="1000" y2="195"/>
-    <line x1="125" y1="0" x2="125" y2="260"/>
-    <line x1="250" y1="0" x2="250" y2="260"/>
-    <line x1="750" y1="0" x2="750" y2="260"/>
-    <line x1="875" y1="0" x2="875" y2="260"/>
+
+  <!-- Background -->
+  <rect width="1000" height="280" fill="url(#bg)"/>
+
+  <!-- Subtle grid -->
+  <g stroke="#1a1730" stroke-width="0.5" opacity="0.6">
+    <line x1="0" y1="70" x2="1000" y2="70"/>
+    <line x1="0" y1="140" x2="1000" y2="140"/>
+    <line x1="0" y1="210" x2="1000" y2="210"/>
+    <line x1="200" y1="0" x2="200" y2="280"/>
+    <line x1="400" y1="0" x2="400" y2="280"/>
+    <line x1="600" y1="0" x2="600" y2="280"/>
+    <line x1="800" y1="0" x2="800" y2="280"/>
   </g>
-  <rect x="0" y="0" width="6" height="260" fill="url(#accent)"/>
-  <text x="60" y="110" font-family="Consolas, monospace" font-size="46" font-weight="700" fill="#F5F3FF">ALOK KUSHWAHA</text>
-  <text x="60" y="150" font-family="Consolas, monospace" font-size="19" fill="#A78BFA">Data Scientist — NLP / GenAI / Agentic Systems / Computer Vision</text>
-  <text x="60" y="185" font-family="Consolas, monospace" font-size="14" fill="#6B7280">MSc Data Science · SIES College of Arts, Science &amp; Commerce, Mumbai</text>
-  <circle cx="925" cy="60" r="4" fill="#38BDF8"/>
-  <circle cx="945" cy="60" r="4" fill="#7C5CFC"/>
-  <circle cx="965" cy="60" r="4" fill="#F472B6"/>
+
+  <!-- Ambient glow orbs -->
+  <circle cx="850" cy="80" r="80" fill="#7C5CFC" opacity="0.04" filter="url(#softGlow)"/>
+  <circle cx="750" cy="220" r="60" fill="#38BDF8" opacity="0.03" filter="url(#softGlow)"/>
+
+  <!-- Animated accent bar -->
+  <rect x="0" y="0" width="5" height="280" fill="url(#accent)"/>
+
+  <!-- Status dots (top right) -->
+  <circle cx="920" cy="30" r="4" fill="#38BDF8" opacity="0.8">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="940" cy="30" r="4" fill="#7C5CFC" opacity="0.8">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" begin="1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="960" cy="30" r="4" fill="#F472B6" opacity="0.8">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" begin="2s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Terminal prompt indicator -->
+  <text x="920" y="60" font-family="'JetBrains Mono', Consolas, monospace" font-size="11" fill="#4B5563">~/alok</text>
+  <rect x="963" y="50" width="8" height="14" fill="#7C5CFC" opacity="0.7">
+    <animate attributeName="opacity" values="0;0.7;0" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Name -->
+  <text x="55" y="108" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="48" font-weight="800" fill="url(#textGrad)" letter-spacing="-1">ALOK KUSHWAHA</text>
+
+  <!-- Subtitle -->
+  <text x="55" y="148" font-family="'JetBrains Mono', Consolas, monospace" font-size="16" fill="url(#subtitleGrad)" letter-spacing="0.5" filter="url(#glow)">ML Engineer · NLP · GenAI · Agentic Systems · Computer Vision</text>
+
+  <!-- Education line -->
+  <text x="55" y="182" font-family="'Inter', 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#6B7280" letter-spacing="0.3">MSc Data Science · SIES College of Arts, Science &amp; Commerce, Mumbai</text>
+
+  <!-- Decorative tag line -->
+  <rect x="55" y="205" width="90" height="24" rx="12" fill="#7C5CFC" opacity="0.15"/>
+  <text x="70" y="221" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#A78BFA">Published</text>
+  <rect x="155" y="205" width="105" height="24" rx="12" fill="#38BDF8" opacity="0.12"/>
+  <text x="170" y="221" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#67E8F9">3x Interned</text>
+  <rect x="270" y="205" width="108" height="24" rx="12" fill="#F472B6" opacity="0.12"/>
+  <text x="285" y="221" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#F9A8D4">11+ Projects</text>
+  <rect x="388" y="205" width="118" height="24" rx="12" fill="#34D399" opacity="0.12"/>
+  <text x="403" y="221" font-family="'JetBrains Mono', Consolas, monospace" font-size="10" fill="#6EE7B7">Open to Work</text>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="275" width="1000" height="5" fill="url(#accent)" opacity="0.4"/>
 </svg>
